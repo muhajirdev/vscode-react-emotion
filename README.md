@@ -44,6 +44,6 @@ Initial release
 
 ## Related
 
-- [vscode-react-emotion-snippets](https://github.com/muhajirframe/vscode-react-emotion-snippets)
+- [vscode-tailwind-styled-snippets](https://github.com/muhajirframe/vscode-tailwind-styled-snippets)
 
 **Enjoy!**

@@ -1,8 +1,8 @@
-# vscode-tailwind-styled-snippets
+# VSCode React Emotion Snippet
 
 ## Installation
 
-Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) and reload VSCode
+Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirframe.vscode-react-emotion) and reload VSCode
 
 ## Usage
 

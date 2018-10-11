@@ -1,0 +1,7 @@
+{
+  "Import emotion": {
+    "prefix": "emo",
+    "body": ["import styled from 'react-emotion'"],
+    "description": "Import Emotion js as styled"
+  }
+}

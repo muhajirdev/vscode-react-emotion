@@ -3,5 +3,15 @@
     "prefix": "emo",
     "body": ["import styled from 'react-emotion'"],
     "description": "Import Emotion js as styled"
+  },
+  "Import emotion css only": {
+    "prefix": "emoc",
+    "body": ["import { css } from 'react-emotion'"],
+    "description": "Import Emotion css only"
+  },
+  "Import emotion styled and css only": {
+    "prefix": "emosc",
+    "body": ["import styled, { css } from 'react-emotion'"],
+    "description": "Import Emotion css only"
   }
 }

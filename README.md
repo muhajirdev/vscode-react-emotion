@@ -8,7 +8,23 @@ Follow the [installation steps here](https://marketplace.visualstudio.com/items?
 
 ![demo](./docs/demo.gif)
 
-Simply write `emo`.
+Simply write `emo` for
+
+```javascript
+import styled from "react-emotion";
+```
+
+`emoc` for
+
+```javascript
+import { css } from "react-emotion";
+```
+
+`emosc` for
+
+```javascript
+import styled, { css } from "react-emotion";
+```
 
 ## Who should use this?
 

@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "repository": "https://github.com/muhajirframe/vscode-react-emotion",
   "author": "Muhammad Muhajir <muhajirframe@gmail.com>",
-  "publisher": "muhajirframe",
+  "publisher": "muhajirdev",
   "engines": {
     "vscode": "^1.27.0"
   },

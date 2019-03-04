@@ -2,9 +2,9 @@
   "name": "vscode-react-emotion",
   "displayName": "VScode React Emotion Snippets",
   "description": "A snippet for creating React Component with tailwindcss and styled-components or emotionjs",
-  "version": "0.1.0",
-  "repository": "https://github.com/muhajirframe/vscode-react-emotion",
-  "author": "Muhammad Muhajir <muhammad@muhajri.dev>",
+  "version": "1.0.1",
+  "repository": "https://github.com/muhajirdev/vscode-react-emotion",
+  "author": "Muhammad Muhajir <muhammad@muhajir.dev>",
   "publisher": "muhajirdev",
   "engines": {
     "vscode": "^1.27.0"

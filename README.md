@@ -2,7 +2,7 @@
 
 ## Installation
 
-Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirframe.vscode-react-emotion) and reload VSCode
+Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirdev.vscode-react-emotion) and reload VSCode
 
 ## Usage
 
@@ -50,16 +50,16 @@ Initial release
 
 ## For more information
 
-- [Github](https://github.com/muhajirframe/vscode-react-emotion-snippets)
-- Got a question? [Submit an issue](https://github.com/muhajirframe/vscode-react-emotion-snippets/issues/new)
+- [Github](https://github.com/muhajirdev/vscode-react-emotion-snippets)
+- Got a question? [Submit an issue](https://github.com/muhajirdev/vscode-react-emotion-snippets/issues/new)
 
 ## Contributing
 
-- [Submit an idea](https://github.com/muhajirframe/vscode-react-emotion-snippets/issues/new)
+- [Submit an idea](https://github.com/muhajirdev/vscode-react-emotion-snippets/issues/new)
 - Make a pull request
 
 ## Related
 
-- [vscode-tailwind-styled-snippets](https://github.com/muhajirframe/vscode-tailwind-styled-snippets)
+- [vscode-tailwind-styled-snippets](https://github.com/muhajirdev/vscode-tailwind-styled-snippets)
 
 **Enjoy!**

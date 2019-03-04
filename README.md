@@ -2,7 +2,7 @@
 
 ## Installation
 
-Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirframe.vscode-react-emotion) and reload VSCode
+Follow the [installation steps here](https://marketplace.visualstudio.com/items?itemName=muhajirdev.vscode-react-emotion) and reload VSCode
 
 ## Usage
 
